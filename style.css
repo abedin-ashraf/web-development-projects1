@@ -1,0 +1,149 @@
+body {
+    font-family: 'Golos Text', sans-serif;
+}
+
+h1 {
+    font-size: 35px;
+}
+
+.flexible-layout {
+    display: flex;
+}
+
+.half-width {
+    width: 50%;
+}
+
+.half-width img {
+    width: 50%;
+    padding-left: 15%;
+}
+
+#introduction {
+    margin-left: 5%;
+    margin-bottom: 5%;
+    ;
+}
+
+#moto {
+
+    border-left: 7px solid;
+    border-image: linear-gradient(#F96167, tomato);
+    border-image-slice: 1;
+    padding-left: 2%;
+}
+
+#introduction p {
+    padding-right: 25%;
+}
+
+.link-button {
+    background-image: linear-gradient(#F96167, tomato);
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    border-radius: 7px;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+.orange-color {
+    color: orange;
+}
+
+.character {
+    padding: 2%;
+}
+
+
+.quarter-width {
+    width: 48%;
+    margin: 2%;
+    border-radius: 20px;
+}
+
+.quarter-width img {
+    width: 55%;
+
+}
+
+.mission h1 {
+    text-align: center;
+    font-weight: 600;
+}
+
+.mission-box1 {
+    background-color: #FDF5DF;
+}
+
+.mission-box2 {
+    background-color: #5EBEC4;
+}
+
+.mission-box3 {
+    background-color: #F92C85;
+}
+
+#width40 {
+    width: 40%;
+}
+
+#width40 img {
+    width: 70%;
+    padding-left: 15%;
+}
+
+#width60 {
+    width: 70%;
+    padding-left: 5%;
+    padding-right: 5%;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#footer {
+    padding-top: 7px;
+    padding-bottom: 7px;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.733);
+    color: white;
+}
+
+#footer h1 {
+    font-style: italic;
+    font-weight: 700;
+}
+
+#footer-year {
+    color: red;
+}
+
+#footer-note {
+    size: 18px;
+    font-weight: 400;
+}
